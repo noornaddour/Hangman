@@ -1,6 +1,6 @@
 #Hangman in Python
 import random
-import wordslist
+from wordslist import words
 
 
 #dictionary of key:()
