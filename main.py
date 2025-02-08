@@ -34,7 +34,7 @@ def display_man(wrong_guesses):
    print("----------")
 
 def display_hint(hint:str):
-   print("Here's a hint:", " ".join(hint))
+   print("Guess the word:", " ".join(hint))
 
 def display_answer(answer:str):
    print("Here's the answer:", " ".join(answer))
